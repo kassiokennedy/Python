@@ -203,8 +203,4 @@ Escolha uma operação:'''))
         elif operacao == 8:
             print("\nFechando o programa.")
             break
-<<<<<<< HEAD
         i += 1
-=======
-        i += 1
->>>>>>> 5e81f3b (vai)
