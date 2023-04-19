@@ -1,0 +1,18 @@
+2023-04-17 23:16:16,856 : WARNING : And this, too
+2023-04-17 23:16:16,856 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:17:17,420 : WARNING : And this, too
+2023-04-17 23:17:17,420 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:17:42,448 : WARNING : And this, too
+2023-04-17 23:17:42,449 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:18:51,410 : WARNING : And this, too
+2023-04-17 23:18:51,411 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:21:44,544 : WARNING : And this, too
+2023-04-17 23:21:44,544 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:22:04,155 : WARNING : And this, too
+2023-04-17 23:22:04,165 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:22:17,064 : WARNING : And this, too
+2023-04-17 23:22:17,064 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:22:43,114 : WARNING : And this, too
+2023-04-17 23:22:43,115 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
+2023-04-17 23:27:36,195 : WARNING : And this, too
+2023-04-17 23:27:36,196 : ERROR : And non-ASCII stuff, too, like Øresund and Malmö
